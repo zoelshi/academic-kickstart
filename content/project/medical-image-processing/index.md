@@ -4,7 +4,7 @@
 title: "Medical Image Processing"
 summary: "Medical image post-processing based on PACS framework"
 authors: []
-tags: ["C-plus-plus"]
+tags: ["Cpp", "image processing"]
 categories: ["medical-imaging processing"]
 date: 2020-06-29T20:36:19+08:00
 
