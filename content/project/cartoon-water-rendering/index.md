@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Cartoon Water Rendering"
-summary: ""
+summary: "Real-Time fluid simulation and cartoon rendering"
 authors: []
 tags: []
 categories: ["rendering", "C-plus-plus"]
