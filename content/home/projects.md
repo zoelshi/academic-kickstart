@@ -33,6 +33,27 @@ subtitle = ""
   #   name = "Other"
   #   tag = "Demo"
 
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+
+
+  [[content.filter_button]]
+    name = "3Dprint"
+    tag = "3Dprint"
+
+  [[content.filter_button]]
+    name = "C++"
+    tag = "C-plus-plus"
+  
+  [[content.filter_button]]
+    name = "matlab"
+    tag = "matlab"
+
+  [[content.filter_button]]
+    name = "mesh"
+    tag = "mesh"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
