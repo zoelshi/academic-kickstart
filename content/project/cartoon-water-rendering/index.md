@@ -6,7 +6,7 @@ summary: "Real-Time fluid simulation and cartoon rendering"
 authors: []
 tags: ["Cpp", "rendering", "simulation"]
 categories: ["rendering", "simulation"]
-date: 2020-06-16T14:37:56+08:00
+#date: 2020-06-16T14:37:56+08:00
 lastmod: 2020-06-16T14:37:56+08:00
 
 # Optional external URL for project (replaces project detail page).
