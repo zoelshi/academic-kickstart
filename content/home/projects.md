@@ -46,6 +46,26 @@ subtitle = ""
     tag = "simulation"
 
   [[content.filter_button]]
+    name = "Image Processing"
+    tag = "image processing"
+
+  [[content.filter_button]]
+    name = "Modeling"
+    tag = "modeling"
+  
+  [[content.filter_button]]
+    name = "Unity"
+    tag = "unity"
+
+  [[content.filter_button]]
+    name = "Maya"
+    tag = "maya"
+
+  [[content.filter_button]]
+    name = "C++"
+    tag = "Cpp"
+  
+  [[content.filter_button]]
     name = "3Dprint"
     tag = "3Dprint"
 
@@ -53,9 +73,7 @@ subtitle = ""
     name = "Mesh"
     tag = "mesh"
 
-  [[content.filter_button]]
-    name = "C++"
-    tag = "C-plus-plus"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

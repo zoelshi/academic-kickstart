@@ -4,8 +4,8 @@
 title: "Monument Valley Like Scene"
 summary: "Cartoon scene"
 authors: []
-tags: ["unity", "maya"]
-categories: ["unity", "maya"]
+tags: ["modeling", "unity", "maya"]
+categories: ["modeling"]
 date: 2020-07-15T17:46:21+08:00
 
 # Optional external URL for project (replaces project detail page).

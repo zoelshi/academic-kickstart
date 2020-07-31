@@ -4,7 +4,7 @@
 title: "3dprint Lightweight Generate"
 summary: "Surface construction with minimal surface"
 authors: []
-tags: ["C-plus-plus"]
+tags: ["C-plus-plus", "3Dprint", "mesh"]
 categories: ["3Dprint"]
 date: 2019-09-24T18:29:49+08:00
 
