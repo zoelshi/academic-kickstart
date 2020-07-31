@@ -90,8 +90,8 @@ Frankly, I am a video game aficionado. The most impressive one I've ever played 
 - <span style="color:grey;">**MPhil in Applied Mathematics**</span>
 - Advisor: [A/Prof. Yibao Li](http://gr.xjtu.edu.cn/web/yibaoli/home)
 - Research Field:
- - Computational Fluid Dynamics
- - Image and Geometry Processing
+  + Computational Fluid Dynamics
+  + Image and Geometry Processing
 
 <img style="float:right" src="/img/NJAU.png" width = "150" height = "150" />
 **Nanjing Agriculture University**  **(Sep 2014 - Jun 2018)**
@@ -100,7 +100,7 @@ Frankly, I am a video game aficionado. The most impressive one I've ever played 
 - Advisor: [A/Prof. Yibin Zhang](http://cos.njau.edu.cn/__local/0/DF/93/29688A426038B1EAA455729157E_D104D116_6597F.pdf?e=.pdf)
 - Ranking: <span style="color:red;">**1/55**</span>
 - Research Field:
- - Grey linear programming
+  + Grey linear programming
 
 
 ### Personal interests
