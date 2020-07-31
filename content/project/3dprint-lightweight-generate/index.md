@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "3dprint Lightweight Generate"
-summary: ""
+summary: "Surface construction with minimal surface"
 authors: []
-tags: ["3Dprint", "C-plus-plus"]
-categories: []
-date: 2020-07-31T17:29:49+08:00
+tags: ["C-plus-plus"]
+categories: ["3Dprint"]
+date: 2019-09-24T18:29:49+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Medical Image Processing"
-summary: ""
+summary: "Medical image post-processing based on PACS framework"
 authors: []
-tags: ["medical-imaging", "C-plus-plus"]
-categories: []
-date: 2020-07-31T17:36:19+08:00
+tags: ["C-plus-plus"]
+categories: ["medical-imaging processing"]
+date: 2020-06-29T20:36:19+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

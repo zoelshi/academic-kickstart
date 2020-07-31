@@ -4,9 +4,9 @@
 title: "Cartoon Water Rendering"
 summary: "Real-Time fluid simulation and cartoon rendering"
 authors: []
-tags: []
-categories: ["rendering", "C-plus-plus"]
-date: 2020-07-31T17:37:56+08:00
+tags: ["C-plus-plus"]
+categories: ["rendering"]
+date: 2020-06-16T14:37:56+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,7 +30,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.artstation.com/artwork/YeBW9P"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

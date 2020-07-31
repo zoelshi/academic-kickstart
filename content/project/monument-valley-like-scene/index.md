@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Monument Valley Like  Scene"
-summary: ""
+title: "Monument Valley Like Scene"
+summary: "Cartoon scene"
 authors: []
 tags: ["unity", "maya"]
-categories: []
-date: 2020-07-31T17:46:21+08:00
+categories: ["unity", "maya"]
+date: 2020-07-15T17:46:21+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
