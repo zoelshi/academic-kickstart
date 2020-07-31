@@ -4,9 +4,9 @@
 title: "Cartoon Water Rendering"
 summary: "Real-Time fluid simulation and cartoon rendering"
 authors: []
-tags: ["C-plus-plus"]
-categories: ["rendering"]
-date: 2020-06-16T14:37:56+08:00
+tags: ["C-plus-plus", "rendering", "simulation"]
+categories: ["rendering", "simulation"]
+# date: 2020-06-16T14:37:56+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

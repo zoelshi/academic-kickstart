@@ -37,22 +37,25 @@ subtitle = ""
     name = "All"
     tag = "*"
 
+  [[content.filter_button]]
+    name = "Rendering"
+    tag = "rendering"
+
+  [[content.filter_button]]
+    name = "Simulation"
+    tag = "simulation"
 
   [[content.filter_button]]
     name = "3Dprint"
     tag = "3Dprint"
 
   [[content.filter_button]]
-    name = "C++"
-    tag = "C-plus-plus"
-  
-  [[content.filter_button]]
-    name = "matlab"
-    tag = "matlab"
+    name = "Mesh"
+    tag = "mesh"
 
   [[content.filter_button]]
-    name = "mesh"
-    tag = "mesh"
+    name = "C++"
+    tag = "C-plus-plus"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
