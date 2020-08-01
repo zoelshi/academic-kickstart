@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/zoelsherry/3dprint-lightweight-generate-fft-app"
 url_pdf: ""
 url_slides: ""
 url_video: ""

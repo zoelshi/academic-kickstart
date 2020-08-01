@@ -44,13 +44,8 @@ slides: ""
 # Cartoon Water
 This project is an implementation of modified **Cartoon Water Rendering with Foam and Surface Smoothing[2]** using OpenGL and **Position Based Fluids[1]** written in CUDA
 
-## Features
-**Techniques**
-- Imcompressible fluids simulation using Macklin[1].
-- Cartoon water rendering[2].
-- Screen space surface reconstruction based on Laan[3]. 
-- Surface smoothed by applying bilateral filter on depth texture.
-- GPU particle neighbor searching using Green[4].
+# project introduce
+https://zhuanlan.zhihu.com/p/165653176
 
 ## Dependencies
 - CUDA 10.2
