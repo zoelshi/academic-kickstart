@@ -41,22 +41,22 @@ bio: My research interests include Image and Geometry Processing, Surface Recons
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:zhengyuanshi@stu.xjtu.edu.cn'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/zoelshi
+#social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:zhengyuanshi@stu.xjtu.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/zoelshi
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/zoelsherry
-- icon: zhihu
-  icon_pack: fab
-  link: https://www.zhihu.com/people/shi-zheng-yuan-54-22/activities
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/zoelsherry
+# - icon: zhihu
+#   icon_pack: fab
+#   link: https://www.zhihu.com/people/shi-zheng-yuan-54-22/activities
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zhengyuanshi@stu.xjtu.edu.cn"
+#email: "zhengyuanshi@stu.xjtu.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -77,7 +77,9 @@ I am currently a second-year M.Phil. in [School of Mathematics and Statistics](h
 
 My research interests lie in **Computational Fluid Dynamics**, **Image and Geometry Processing** and **Surface Reconstruction**
 
-<span style="font-size: 28px; color: #2962ff;"><i class="fas fa-file"></i></span> [<a href="https://zoelsherry.github.io/cv/" target="_blank"><span style="color: #2962ff;">**Curriculum Vitae**</span></a>] [<a href="https://zoelsherry.github.io/cv_zh/" target="_blank"><span style="color: #ff219e;">**中文履歷**</span></a>]
+<!-- <span style="font-size: 28px; color: #2962ff;"><i class="fas fa-file"></i></span> --> [<a href="https://zoelsherry.github.io/cv/" target="_blank"><span style="color: #2962ff;">**Curriculum Vitae**</span></a>] [<a href="https://zoelsherry.github.io/cv_zh/" target="_blank"><span style="color: #ff219e;">**中文履歷**</span></a>]
+
+<a href="https://www.zhihu.com/people/shi-zheng-yuan-54-22/activities" target="_blank"><span style="font-size: 28px; color: #2962ff ;">知乎</span></a>&emsp;&emsp;<a href="https://github.com/zoelsherry" target="_blank"><span style="font-size: 28px; color: #2962ff ;">GitHub</span></a>
 
 Frankly, I am a video game aficionado. The most impressive one I've ever played is [Final Fantasy](https://www.finalfantasy.com/) series, which gives me the motivation to pursue the state-of-the-art technology of Computer Graphics and makes me determined to embark on an career in academic. Beyond that, [Xingyun Mao](https://github.com/QianMo), my example, also inspires me to chase the goal. So what's my desire? I havn't ever thought a lot but one thing is true. I endeavor to vividly simulate the motion of everything in the world so that you couldn't tell reality from fiction.
 
@@ -90,8 +92,8 @@ Frankly, I am a video game aficionado. The most impressive one I've ever played 
 - **MPhil in Applied Mathematics**
 - Advisor: [A/Prof. Yibao Li](http://gr.xjtu.edu.cn/web/yibaoli/home)
 - Research Field:
+  + Image and Geometry Processing 
   + Computational Fluid Dynamics
-  + Image and Geometry Processing
 
 <img style="float:right" src="/img/NJAU.png" width = "150" height = "150" />
 **Nanjing Agriculture University**  **(Sep 2014 - Jun 2018)**
@@ -104,8 +106,9 @@ Frankly, I am a video game aficionado. The most impressive one I've ever played 
 
 
 ### Personal interests
-- **:video_game::** <span style="font-size: 28px; color: #3350b7;"><i class="fab fa-playstation"></i></span><a href="files/playstation_id.pdf" target="_blank">ID: zacloudevil</a> <span style="font-size: 28px; color: red;"><i class="fab fa-nintendo-switch"></i></span> <span style="font-size: 28px; color: black;"><i class="fab fa-steam"></i></span>
-- **Writing:** <a href="https://www.zhihu.com/people/shi-zheng-yuan-54-22/activities" target="_blank"><span style="font-size: 28px; color: #2962ff ;"><i class="fab fa-zhihu fa-lg"></i></span></a>
+- **:video_game::** <span style="font-size: 28px; color: #3350b7;">PlayStation</span><a href="files/playstation_id.pdf" target="_blank">ID: zacloudevil</a>
+<!-- - **:video_game::** <span style="font-size: 28px; color: #3350b7;"><i class="fab fa-playstation"></i></span><a href="files/playstation_id.pdf" target="_blank">ID: zacloudevil</a> <span style="font-size: 28px; color: red;"><i class="fab fa-nintendo-switch"></i></span> <span style="font-size: 28px; color: black;"><i class="fab fa-steam"></i></span> -->
+<!-- - **Writing:** <a href="https://www.zhihu.com/people/shi-zheng-yuan-54-22/activities" target="_blank"><span style="font-size: 28px; color: #2962ff ;"><i class="fab fa-zhihu fa-lg"></i></span></a> -->
 - **Calligraphy:** GRADE <span style="color:red;">TEN</span>(highest). Please refer to [<a href="img/HW1.jpg" target="_blank"><span style="color: #ff219e;">certificate</span></a>], [<a href="img/HW2.jpg" target="_blank">work</a>]
 - **Traditinal Chinese painting:** GRADE <span style="color:red;">TEN</span>(highest). Please refer to [<a href="img/TCP1.jpg" target="_blank"><span style="color: #ff219e;">certificate</span></a>], [<a href="img/TCP2.jpg" target="_blank">work</a>]
 - **:guitar::** Just so so, only can play Jay Chou's 'Qing Tian'. :speak_no_evil:
