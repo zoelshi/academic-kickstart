@@ -77,9 +77,9 @@ I am currently a second-year M.Phil. in [School of Mathematics and Statistics](h
 
 My research interests lie in **Computational Fluid Dynamics**, **Image and Geometry Processing** and **Surface Reconstruction**
 
-<!-- <span style="font-size: 28px; color: #2962ff;"><i class="fas fa-file"></i></span> --> [<a href="https://zoelsherry.github.io/cv/" target="_blank"><span style="color: #2962ff;">Curriculum Vitae</span></a>] [<a href="https://zoelsherry.github.io/cv_zh/" target="_blank"><span style="color: #ff219e;">中文履歷</span></a>]
+<!-- <span style="font-size: 28px; color: #2962ff;"><i class="fas fa-file"></i></span> --> [<a href="https://zoelsherry.github.io/cv/" target="_blank"><span style="color: #2962ff;"><b>Curriculum Vitae</b></span></a>] [<a href="https://zoelsherry.github.io/cv_zh/" target="_blank"><span style="color: #ff219e;">中文履歷</span></a>]
 
-<a href="https://www.zhihu.com/people/shi-zheng-yuan-54-22/activities" target="_blank"><span style="font-size: 28px; color: #2962ff ;">知乎</span></a>&emsp;&emsp;<a href="https://github.com/zoelsherry" target="_blank"><span style="font-size: 28px; color: #2962ff ;">GitHub</span></a>
+<a href="https://www.zhihu.com/people/shi-zheng-yuan-54-22/activities" target="_blank"><span style="font-size: 28px; color: #2962ff ;"><b>知乎</b></span></a>&emsp;&emsp;<a href="https://github.com/zoelsherry" target="_blank"><span style="font-size: 28px; color: #2962ff ;">GitHub</span></a>
 
 Frankly, I am a video game aficionado. The most impressive one I've ever played is [Final Fantasy](https://www.finalfantasy.com/) series, which gives me the motivation to pursue the state-of-the-art technology of Computer Graphics and makes me determined to embark on an career in academic. Beyond that, [Xingyun Mao](https://github.com/QianMo), my example, also inspires me to chase the goal. So what's my desire? I havn't ever thought a lot but one thing is true. I endeavor to vividly simulate the motion of everything in the world so that you couldn't tell reality from fiction.
 
