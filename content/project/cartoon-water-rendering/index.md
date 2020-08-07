@@ -30,8 +30,8 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: ""
-url_video: "https://www.artstation.com/artwork/YeBW9P"
+url_slides: "https://zhuanlan.zhihu.com/p/165653176"
+url_video: "https://zhuanlan.zhihu.com/p/165653176"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -44,7 +44,7 @@ slides: ""
 # Cartoon Water
 This project is an implementation of modified **Cartoon Water Rendering with Foam and Surface Smoothing[2]** using OpenGL and **Position Based Fluids[1]** written in CUDA
 
-# project introduce
+# project introduction
 https://zhuanlan.zhihu.com/p/165653176
 
 ## Dependencies
