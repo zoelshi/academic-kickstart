@@ -77,7 +77,7 @@ I am currently a second-year M.Phil. in [School of Mathematics and Statistics](h
 
 My research interests lie in **Computational Fluid Dynamics**, **Image and Geometry Processing** and **Surface Reconstruction**
 
-<!-- <span style="font-size: 28px; color: #2962ff;"><i class="fas fa-file"></i></span> --> [<a href="https://zoelsherry.github.io/cv/" target="_blank"><span style="color: #2962ff;">**Curriculum Vitae**</span></a>] [<a href="https://zoelsherry.github.io/cv_zh/" target="_blank"><span style="color: #ff219e;">**中文履歷**</span></a>]
+<!-- <span style="font-size: 28px; color: #2962ff;"><i class="fas fa-file"></i></span> --> [<a href="https://zoelsherry.github.io/cv/" target="_blank"><span style="color: #2962ff;">Curriculum Vitae</span></a>] [<a href="https://zoelsherry.github.io/cv_zh/" target="_blank"><span style="color: #ff219e;">中文履歷</span></a>]
 
 <a href="https://www.zhihu.com/people/shi-zheng-yuan-54-22/activities" target="_blank"><span style="font-size: 28px; color: #2962ff ;">知乎</span></a>&emsp;&emsp;<a href="https://github.com/zoelsherry" target="_blank"><span style="font-size: 28px; color: #2962ff ;">GitHub</span></a>
 
