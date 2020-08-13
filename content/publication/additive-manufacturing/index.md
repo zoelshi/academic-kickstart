@@ -13,13 +13,13 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Additive Manufacturing"
 publication_short: ""
 
-abstract: ""
+abstract: "Additive manufacturing has been successfully used in the manufacturing industry and has become an important topic of scientific research. Optimization among the manufacturing time, cost, and accuracy has been important in this field. In this study, an efficient manufacturing method is designed for additive manufacturing with multiple printing sizes, which involves a printer with several nozzles. This method can be extended to use the octree adaptive mesh method and is much easier to implement. The proposed algorithm partitions the internal area of the model into modules with different accuracies based on the requirements such as distance and stress. Additionally, porous structures can be used to replace the inside modules because of their special properties such as higher rigidity and lightweight. Multi-scale lightweight structures and porosity gradient structures are generated to further reduce the material weight without affecting the mechanical stability. The experimental results demonstrate that the proposed method can provide effective solutions for various additive manufacturing design problems."
 
 # Summary. An optional shortened abstract.
 summary: ""
