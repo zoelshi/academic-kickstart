@@ -4,7 +4,7 @@
 title: "An efficient non-linear polynomial color characterization method based on interrelations of color spaces"
 authors: ["Jing Ji", "Suping Fang", "Zhengyuan Shi", "Qing Xia", "Yibao Li"]
 date: 2020-04-30T14:19:52+08:00
-doi: "10.1002/col.22563"
+doi: 10.1002/col.22563
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2020-07-31T21:55:15+08:00
