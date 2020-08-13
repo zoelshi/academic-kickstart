@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Color Research & Application"
 publication_short: ""
 
-abstract: "A well-known color characterization method is to take an image of a color chart and then to nd the mapping matrix from the digital RGBs to the corresponding known CIEXYZs. However, the prediction errors are generally large in CIELAB color space because of the nonlinear transformation from CIEXYZs to CIELABs. In this paper, we propose an efficient and simple non-linear method for the color characterization of input devices. The approach for deriving a colorimetric mapping between digital RGB signals and CIELAB tristimulus values uses the polynomial modeling by considering the interrelations among the standard CIE color spaces. Furthermore, to improve the accuracy of solution, we take the polynomial root terms extension. Our algorithm is simple to implement because only a least-squares mapping should be solved. Various computational results are given to demonstrate the eciency and capability of the proposed method."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
