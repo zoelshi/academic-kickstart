@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/col.22563
 url_code:
 url_dataset:
 url_poster:
