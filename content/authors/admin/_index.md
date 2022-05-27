@@ -22,9 +22,6 @@ bio: My research interests include Image and Geometry Processing, Surface Recons
 
 interests:
 - R&D Stuff
-- **Calligraphy:** GRADE <span style="color:red;">TEN</span>(highest). Please refer to [<a href="img/HW1.jpg" target="_blank"><span style="color: #ff219e;">certificate</span></a>], [<a href="img/HW2.jpg" target="_blank">work</a>]
-- **Traditinal Chinese painting:** GRADE <span style="color:red;">TEN</span>(highest). Please refer to [<a href="img/TCP1.jpg" target="_blank"><span style="color: #ff219e;">certificate</span></a>], [<a href="img/TCP2.jpg" target="_blank">work</a>]
-- **:guitar::** Just so so, only can play Jay Chou's 'Qing Tian'. :speak_no_evil:
 
 education:
   courses:
@@ -100,8 +97,10 @@ Frankly, I am a video game aficionado. The most impressive one I've ever played 
 - Research Field:
   + Grey linear programming -->
 
-
+### Personal Interest
 <!-- - **:video_game::** <span style="font-size: 28px; color: #3350b7;">PlayStation</span><a href="files/playstation_id.pdf" target="_blank">ID: zacloudevil</a> -->
 <!-- - **:video_game::** <span style="font-size: 28px; color: #3350b7;"><i class="fab fa-playstation"></i></span><a href="files/playstation_id.pdf" target="_blank">ID: zacloudevil</a> <span style="font-size: 28px; color: red;"><i class="fab fa-nintendo-switch"></i></span> <span style="font-size: 28px; color: black;"><i class="fab fa-steam"></i></span> -->
 <!-- - **Writing:** <a href="https://www.zhihu.com/people/shi-zheng-yuan-54-22/activities" target="_blank"><span style="font-size: 28px; color: #2962ff ;"><i class="fab fa-zhihu fa-lg"></i></span></a> -->
-
+- **Calligraphy:** GRADE <span style="color:red;">TEN</span>(highest). Please refer to [<a href="img/HW1.jpg" target="_blank"><span style="color: #ff219e;">certificate</span></a>], [<a href="img/HW2.jpg" target="_blank">work</a>]
+- **Traditinal Chinese painting:** GRADE <span style="color:red;">TEN</span>(highest). Please refer to [<a href="img/TCP1.jpg" target="_blank"><span style="color: #ff219e;">certificate</span></a>], [<a href="img/TCP2.jpg" target="_blank">work</a>]
+- **:guitar::** Just so so, only can play Jay Chou's 'Qing Tian'. :speak_no_evil:
