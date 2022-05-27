@@ -104,3 +104,4 @@ Frankly, video games impacted greatly on my school days. The most impressive one
 - **Calligraphy:** GRADE <span style="color:red;">TEN</span>(highest). Please refer to [<a href="img/HW1.jpg" target="_blank"><span style="color: #ff219e;">certificate</span></a>], [<a href="img/HW2.jpg" target="_blank">work</a>]
 - **Traditinal Chinese painting:** GRADE <span style="color:red;">TEN</span>(highest). Please refer to [<a href="img/TCP1.jpg" target="_blank"><span style="color: #ff219e;">certificate</span></a>], [<a href="img/TCP2.jpg" target="_blank">work</a>]
 - **:guitar::** Just so so, only can play Jay Chou's 'Qing Tian'. :speak_no_evil:
+- **Travelling**
