@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zoel Sherry(史政源)
+title: Zoel Shi
 
 # Username (this should match the folder name)
 authors:
@@ -76,7 +76,7 @@ I have gotten my M.Phil.'s degree in Applied Mathematics from [School of Mathema
 
 <a href="https://www.zhihu.com/people/shi-zheng-yuan-54-22/activities" target="_blank"><span style="font-size: 28px; color: #2962ff ;"><b>知乎</b></span></a>&emsp;&emsp;<a href="https://github.com/zoelsherry" target="_blank"><span style="font-size: 28px; color: #2962ff ;">GitHub</span></a>
 
-Frankly, I am a video game aficionado. The most impressive one I've ever played is [Final Fantasy](https://www.finalfantasy.com/) series, which gives me the motivation to pursue the state-of-the-art technology of Computer Graphics and makes me determined to embark on an career in academic. Beyond that, [Xingyun Mao](https://github.com/QianMo), my example, also inspires me to chase the goal. So what's my desire? I havn't ever thought a lot but one thing is true. I endeavor to vividly simulate the motion of everything in the world so that you couldn't tell reality from fiction.
+Frankly, video games impacted greatly on my school days. The most impressive one I've ever played is [Final Fantasy](https://www.finalfantasy.com/) series, which gives me the motivation to pursue the state-of-the-art technology of Computer Graphics and makes me determined to embark on an career in academic. Beyond that, [Xingyun Mao](https://github.com/QianMo), my example, also inspires me to chase the goal. So what's my desire? I havn't ever thought a lot but one thing is true. I endeavor to vividly simulate the motion of everything in the world so that you couldn't tell reality from fiction.
 
 <!-- ### Education
 <img style="float:right" src="/img/XJTU.png" width = "150" height = "150" />
