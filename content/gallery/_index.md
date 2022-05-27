@@ -13,13 +13,27 @@ header:
   caption: ""
   image: ""
 ---
+<figure>
+    <img style="float:none; width:80%; height:80%;" src="/img/p1.jpg"/>
+    <figcaption>精進湖(Shoji), 2017.1.17</figcaption>
+</figure>
 
-<img style="float:none" src="/img/p1.jpg"/>
+<figure>
+    <img style="float:none; width:80%; height:80%;" src="/img/p2.jpg"/>
+    <figcaption>忍野八海(Oshino Hakkai), 2017.1.17</figcaption>
+</figure>
 
-<img style="float:none" src="/img/p2.jpg"/>
+<figure>
+    <img style="float:none; width:80%; height:80%;" src="/img/p3.jpg"/>
+    <figcaption>忍野八海(Oshino Hakkai), 2017.1.17</figcaption>
+</figure>
 
-<img style="float:none" src="/img/p3.jpg"/>
+<figure>
+    <img style="float:none; width:80%; height:80%;" src="/img/p4.jpg"/>
+    <figcaption>Fuji, 2017.1.17</figcaption>
+</figure>
 
-<img style="float:none" src="/img/p4.jpg"/>
-
-<img style="float:none" src="/img/p5.jpg"/>
+<figure>
+    <img style="float:none; width:80%; height:80%;" src="/img/p5.jpg"/>
+    <figcaption>秋葉原, 2017.1.18</figcaption>
+</figure>
