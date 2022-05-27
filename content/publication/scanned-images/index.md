@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "An efficient method for scanned images by using color-correction and l0 gradient minimizations"
-authors: ["Qing Xia", "Zhengyuan Shi", "Jing Ji", "Yibao Li"]
-date: 2020-04-30T14:35:17+08:00
+title: "An efficient method for scanned images by using color-correction and L0 gradient minimizations"
+authors: ["Jing Ji", "Suping Fang", "Qing Xia", "Zhengyuan Shi"]
+date: 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +16,10 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Applied Mathematics and Computation"
+publication: "Optik"
 publication_short: ""
 
-abstract: "novel and efficient method for image processing by using color-correction and l0 gradient minimization. Our method is divided into two steps. The first step is to deal with the chromatic aberration. To derive a colorimetric mapping between digital RGB signals and real image values, we use a polynomial modeling by considering the interrelations among the standard color spaces. A L0 gradient minimization is used to remove the image noises. Based on the half-quadratic splitting method, a iterative algorithm for our proposed method is developed and is alternating over a smoothing step. This iterative algorithm is easy to implement and has the optimal complexity O(NlogN) per iteration. Our method is particularly beneficial to correct image color and to remove the noises. Various tests are presented to demonstrate the robustness and efficient of our method."
+abstract: "To improve the quality of scanned image captured by cameras, we propose a novel and efficient method for image processing by using color-correction and  gradient minimization. Our method is divided into two steps. To derive a colorimetric mapping between digital RGB signals and real image values, we use a polynomial model by considering the interrelations among the standard color spaces. A L0 gradient minimization is used to remove the image noises. Based on the half-quadratic splitting method, an iterative algorithm for our proposed method is developed. The iterative algorithm is easy to implement with the optimal complexity O(NlogN). Our method is particularly beneficial to correct image color and remove image noises. Various tests are presented to demonstrate the robustness and efficiency of our method."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0030402621014042
 url_code:
 url_dataset:
 url_poster:
